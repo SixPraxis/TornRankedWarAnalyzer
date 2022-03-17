@@ -1,0 +1,8 @@
+*.ipynb
+*.txt
+*.csv
+*.html
+*.log
+/data_backup
+/.ipynb_checkpoints
+/__pycache__
