@@ -20,7 +20,7 @@ Note: Due to Torn's API limitations, the requests are rate limited to every 30 s
 
 Install:
 ```
-git clone 
+git clone https://github.com/SixPraxis/TornRankedWarAnalyzer.git
 pip install -r requirements.txt
 ```
 

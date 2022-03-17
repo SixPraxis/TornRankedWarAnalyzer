@@ -1,6 +1,6 @@
 import json
-import requests
 import sys
+import requests
 from time import sleep
 
 API_BASE_URL = "https://api.torn.com/"
